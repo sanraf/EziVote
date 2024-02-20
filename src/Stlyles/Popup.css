@@ -1,0 +1,25 @@
+.popup-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+    width: fit-content;
+    height: fit-content;
+}
+
+.popup-card{
+    width: 350px;
+    padding: 1rem 0.8rem ;
+    text-align: start;
+    box-shadow:  1px 1px  5px rgb(0, 0, 0);
+}
+
+.popup-card button{
+    position: relative;
+    left: 84%;
+    border-radius: 3px;
+    padding: 0 1rem;
+    text-transform: uppercase;
+    border: none;
+    box-shadow:  1px 1px  1px rgb(0, 0, 0);
+}

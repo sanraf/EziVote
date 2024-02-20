@@ -1,0 +1,42 @@
+:root{
+     
+    --PrimaryColor:#fd42f4eb;;
+    --PrimaryHoverColor:#0e5fb2;
+    --SecondaryColor:#000000;
+    --FontColor:#ffffff;
+    --MainColor: #023047;
+    --MainTrans: #023047f3;
+    --MainTrans-2:#023047d7;
+    --AboutBackground:#023047f8;
+    --HeadingBackground:#02293da6;
+    --TypingColor:#458a9c;
+    --ProgressBackground:#02131c69;
+    /* --SkillImage:url("../icons/scattered-forcefield.svg"); */
+    --CardBackground:#041b33;
+    --ExperienceColor:#0230478a;
+  
+  }
+
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  h1{
+    color: #1589ff;
+    text-shadow: 2px 2px 10px #1589ff;
+    text-transform: uppercase;
+    font-family: m;
+    font-size: large;
+      
+  }
+  
+  
+ hr{
+    height: 2px;
+    width: 100px;
+    background: #1589ff;  
+    box-shadow: 2px 2px 10px #1589ff;
+    margin: 1rem 0;
+  }
